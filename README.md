@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Huu Huy</h1>
+<h1 align="center">Hi 👋,It's Nguyen Huu Huy</h1>
 <h3 align="center">A funny guy that develop something Krazy</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
